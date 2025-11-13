@@ -16,15 +16,6 @@ light; sudo,dev,www-data Madhu; sudo kumar; dev,www-data
 
 ---
 
-.
-├── user_management.sh       # Main Bash script
-├── users.txt                # Input file with user data
-├── secure/
-│   └── user_passwords.txt   # Generated passwords (auto-created)
-├── logs/
-│   └── user_management.log  # Log of simulated actions (auto-created)
-└── README.md                # This file
-
 
 ##  Features
 
